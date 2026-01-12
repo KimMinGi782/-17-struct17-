@@ -14,6 +14,28 @@ Numerai Tournament용 **완전 통합형 예측 파이프라인**입니다.
 
 > ⚠️ 이 저장소는 **연구/구조 공개 목적**입니다.  
 > 실전 운영 최적화(파라미터 고정 세트, 비공개 튜닝 루틴 등)는 포함하지 않습니다.
+> ---
+
+## License
+
+This project is licensed under the LICENSE file in this repository.  
+Commercial use, resale, redistribution, or deployment in live trading systems  
+requires **separate explicit permission** from the author.
+
+📧 Contact: admin@zeroseriesbiowar.com
+
+---
+
+## About Advanced Versions
+
+This repository represents a **public structural layer** only.  
+Advanced versions — including execution engines, risk governors, capital routing logic,  
+and commercial-grade deployments — are **managed separately**.
+
+This separation is intentional.
+
+> 공개 버전은 구조 이해를 위한 레퍼런스이며,  
+> 상위 버전은 실행·수익·리스크 통제를 포함한 별도 체계입니다.
 
 ---
 
