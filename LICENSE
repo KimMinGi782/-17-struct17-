@@ -1,0 +1,22 @@
+Custom Research License (CRL-17)
+
+Copyright (c) 2026 Kim Min-gi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this repository and associated documentation files (the "Software"),
+to use, copy, and modify the Software for research, educational,
+and non-commercial purposes only, subject to the following conditions:
+
+1. The Software may NOT be used for live trading, signal generation,
+   automated execution, or deployed in any production or commercial environment.
+
+2. The Software may NOT be sold, sublicensed, or redistributed
+   as part of any paid product or service.
+
+3. Derivative works must retain this license and clearly indicate
+   that they are based on this research version.
+
+4. The name of the author or project may not be used to endorse or promote
+   derived products without explicit written permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
